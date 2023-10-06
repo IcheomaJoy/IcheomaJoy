@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icheomajoy&label=Profile%20views&color=0e75b6&style=flat" alt="icheomajoy" /> </p>
 
-
 - 🌱 I’m currently learning **Responsive design**😊
-
 
 - 💬 Ask me about **Wireframes,User persona**💁
 
@@ -16,7 +14,7 @@
 - 📫 How to reach me **obiwaliicheomajoy@gmail.com**
 
 
-- ⚡ Fun fact **I enjoy reading.**😄
+- ⚡ Fun fact **I enjoy reading.** 😄
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,4 +33,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icheomajoy&show_icons=true&locale=en" alt="icheomajoy" /></p>
+
+[![](https://raw.githubusercontent.com/IcheomaJoy/Icheoma-Joy/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/IcheomaJoy/Icheoma-Joy/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IcheomaJoy/Icheoma-Joy/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/IcheomaJoy/Icheoma-Joy/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/IcheomaJoy/Icheoma-Joy/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
