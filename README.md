@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Icheoma Joy</h1>
 
-<h3 align="center">I am about passionate UI/UX Design.</h3>
+<h3 align="center">I am about passionate UI/UX Design.</h3> 
 
 ![undraw_Designer_girl_re_h54c](https://github.com/IcheomaJoy/IcheomaJoy/assets/133162594/0195b9e1-28de-4e68-89ed-c5bc927655fa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icheomajoy&label=Profile%20views&color=0e75b6&style=flat" alt="icheomajoy" /> </p>
 
 
-- 🌱 I’m currently learning **Responsive design**
+- 🌱 I’m currently learning **Responsive design**😊
 
 
-- 💬 Ask me about **Wireframes,User persona**
+- 💬 Ask me about **Wireframes,User persona**💁
 
 
 - 📫 How to reach me **obiwaliicheomajoy@gmail.com**
 
 
-- ⚡ Fun fact **I enjoy reading.**
+- ⚡ Fun fact **I enjoy reading.**😄
 
 
 <h3 align="left">Connect with me:</h3>
