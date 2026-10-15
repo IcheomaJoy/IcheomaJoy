@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Icheoma Joy</h1>
 
-<h3 align="center">I am about passionate UI/UX Design.</h3> 
+<h3 align="center">I am passionate about UI/UX Design.</h3> 
 
 ![undraw_Designer_girl_re_h54c](https://github.com/IcheomaJoy/IcheomaJoy/assets/133162594/0195b9e1-28de-4e68-89ed-c5bc927655fa)
 
